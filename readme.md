@@ -37,7 +37,7 @@ Youtube videos on just how to sell a website and what to charge.
 
 Resources for building a website.
 
-- [Learn Javscript in 30 days](https://javascript30.com/)
+- [📆 Learn Javscript in 30 days](https://javascript30.com/)
 - [🏊‍♀️ Webflow](https://webflow.com/) - A visual website builder to get you started
 - [✅ Building a to-do website from scratch](https://www.youtube.com/watch?v=A5S23KS_-bU&list=PLEhEHUEU3x5q-xB1On4CsLPts0-rZ9oos)
 - [🎸 Building a Music Player](https://www.youtube.com/watch?v=BPyniDJ5QOQ)
