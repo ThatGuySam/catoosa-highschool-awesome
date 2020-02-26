@@ -1,3 +1,2 @@
-* text=auto eol=lf
-*.ai binary
+* text=auto
 readme.md merge=union
