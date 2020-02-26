@@ -1,28 +1,67 @@
 # Catoosa Highschool Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of helpful for Catoosa Highschool students interested in learning coding and tech. 
+> A curated list of helpful for Catoosa Highschool students interested in learning coding and tech.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Free Website Tools](#section)
+- [How to sell a Website](#how-to-sell-a-website)
+- [How to build a Website](#how-to-build-a-website)
+- [How to build an App](#how-to-build-an-app)
+- [Awesome Lists](#awesome-lists)
 
 
-## Section
+## Free Website Tools
 
-About this section. Optional. Keep this short and focus on the list.
+Free tools to learn and build websites.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [🖋 Codepen](https://codepen.io/) - Examples of how to build almost any kind of thing on a website with fully editable code.
+- [‼️ Glitch Games](https://glitch.com/@glitch/games) - Examples of games on a website with fully editable code.
+- [🌐 VSCode](https://code.visualstudio.com/) - A fully featured code editor used by developers from Google, Facebook, Amazon, Apple, and any other tech company you can think of.
+- [🆓 More Free Tools](https://github.com/johnjago/awesome-free-software) - Even more free tools.
+- [item](link)
 
 
-## Another Section
+## How to sell a Website
 
-### Subsection
+Youtube videos on just how to sell a website and what to charge.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Jonathan Stark](https://www.youtube.com/channel/UC7SogPzCSqT0TTsHzSpL70g) - Teaches you how sell and price a website all on your own.
+- [The Future](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog) - Teaches you how to price and market any kind of creative work.
+- [Blair Enns](https://www.youtube.com/results?search_query=Blair+Enns) - Teaches you how to position yourself so no one can compete with you.
+- [David C. Baker](https://www.youtube.com/results?search_query=David+C.+Baker) - Teaches you what an expert does and how to properly operate a project.
+
+
+## How to build a Website
+
+Resources for building a website.
+
+- [Learn Javscript in 30 days](https://javascript30.com/)
+- [Webflow](https://webflow.com/) - A visual website builder to get you started
+- [✅ Building a to-do website from scratch](https://www.youtube.com/watch?v=A5S23KS_-bU&list=PLEhEHUEU3x5q-xB1On4CsLPts0-rZ9oos)
+- [🎸 Building a Music Player](https://www.youtube.com/watch?v=BPyniDJ5QOQ)
+- [⬆️ More Tutorials](https://www.youtube.com/user/LevelUpTuts)
+
+
+## How to build an App
+
+Youtube Videos for building an app.
+
+- [📱Building a dice app in 5 minutes](https://www.youtube.com/watch?v=izeh78h1tZM)
+- [📱Building a notifications app in 7 minutes](http://example.com)
+- [📱Build apps in your browser for free](https://snack.expo.io/)
+
+
+## Awesome Lists
+
+- [🕶🕶Awesome List of Awesome Lists](https://github.com/sindresorhus/awesome) - A bunch of lists of awesome lists
+- [🕶🕶🕶Awesome list of Github Awesome Lists](https://github.com/topics/awesome) - Even more lists of awesome lists
+
+
+## Props
+
+If you have more questions or make something cool send it to me @thatguysam on [Instagram](https://www.instagram.com/thatguysam/) and [Twitter](https://www.twitter.com/thatguysam/) or [Contact Me](https://samcarlton.com/contact)
 
 
 ## Contribute
