@@ -46,7 +46,7 @@ Resources for building a website.
 
 ## How to build an App
 
-Youtube Videos for building an app.
+Resources for building an apps.
 
 - [📱Building a dice app in 5 minutes](https://www.youtube.com/watch?v=izeh78h1tZM)
 - [📱Building a notifications app in 7 minutes](https://www.youtube.com/watch?v=WBFd885FdUI)
