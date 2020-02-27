@@ -49,7 +49,7 @@ Resources for building a website.
 Youtube Videos for building an app.
 
 - [📱Building a dice app in 5 minutes](https://www.youtube.com/watch?v=izeh78h1tZM)
-- [📱Building a notifications app in 7 minutes](http://example.com)
+- [📱Building a notifications app in 7 minutes](https://www.youtube.com/watch?v=WBFd885FdUI)
 - [📱Expo Snacks](https://snack.expo.io/) - Build apps in your browser for free
 
 
