@@ -31,6 +31,7 @@ Youtube videos on just how to sell a website and what to charge.
 - [The Future](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog) - Teaches you how to price and market any kind of creative work.
 - [Blair Enns](https://www.youtube.com/results?search_query=Blair+Enns) - Teaches you how to position yourself so no one can compete with you.
 - [David C. Baker](https://www.youtube.com/results?search_query=David+C.+Baker) - Teaches you what an expert does and how to properly operate a project.
+- [How to make more money than you spend](https://www.youtube.com/watch?v=dr0ntxYFEWs) - An accountant for creative businesses breaks down how to make sure you have enough money. 
 
 
 ## How to build a Website
